@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @t-alex-b
-- 👀 I’m interested in programming we applications
+- 👀 I’m interested in programming web applications
 - 🌱 I’m currently learning some lower level languages, such as Scheme
 - 💞️ I’m looking to collaborate on anything and everything.
